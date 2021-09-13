@@ -8,18 +8,18 @@ module.exports = {
       resolve: "gatsby-source-contentful",
       options: {
         accessToken: "webAfVAHqRskEFMb71Tp11kb9PAgQP__GHJccucuBek",
-        spaceId: "",
+        spaceId: "5zkdzl6trmyg",
       },
     },
     "gatsby-plugin-sass",
     "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-image",
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: "",
-      },
-    },
+    // {
+    //   resolve: "gatsby-plugin-google-analytics",
+    //   options: {
+    //     trackingId: "",
+    //   },
+    // },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
     {
